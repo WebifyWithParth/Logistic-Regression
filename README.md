@@ -1,5 +1,5 @@
  🔍 Logistic Regression – Binary Classification Model
-
+ 
 Welcome to this project that demonstrates the power and simplicity of **Logistic Regression**, one of the most fundamental algorithms in machine learning for **binary classification** tasks.
 
 ---
