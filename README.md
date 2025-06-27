@@ -95,6 +95,6 @@ This project is open-source and available under the MIT License.
 Inspired by real-world classification problems and beginner-friendly tutorials to help newcomers understand one of the most widely used classification algorithms.
 
 📬 Contact
-Created with 💻 by [Your Name]
+Created by Parth tyagi 
 📧 Email: your.parthtyagi3389@gmail.com
 🔗 linkedin : https://www.linkedin.com/in/parth-tyagi-768a1031b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
